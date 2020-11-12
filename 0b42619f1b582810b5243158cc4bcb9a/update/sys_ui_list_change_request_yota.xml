@@ -2,33 +2,318 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="change_request" version="2" view="yota">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>backout_plan</element>
-            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="eb6c8d131b582810b5243158cc4bcb97" view="bf33e99f1b582810b5243158cc4bcbf2">789321df1b582810b5243158cc4bcbf2</list_id>
+            <element>cab_date</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>john.diego@snc</sys_created_by>
-            <sys_created_on>2020-11-10 23:11:46</sys_created_on>
-            <sys_id>3c9321df1b582810b5243158cc4bcbf3</sys_id>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>43a42ddf1b582810b5243158cc4bcb3c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>john.diego@snc</sys_updated_by>
-            <sys_updated_on>2020-11-10 23:11:46</sys_updated_on>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>business_duration</element>
-            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="eb6c8d131b582810b5243158cc4bcb97" view="bf33e99f1b582810b5243158cc4bcbf2">789321df1b582810b5243158cc4bcbf2</list_id>
+            <element>cab_delegate</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>john.diego@snc</sys_created_by>
-            <sys_created_on>2020-11-10 23:11:46</sys_created_on>
-            <sys_id>bc9321df1b582810b5243158cc4bcbf3</sys_id>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>c3a42ddf1b582810b5243158cc4bcb3c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>john.diego@snc</sys_updated_by>
-            <sys_updated_on>2020-11-10 23:11:46</sys_updated_on>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cab_recommendation</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>47a42ddf1b582810b5243158cc4bcb3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cab_required</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>c7a42ddf1b582810b5243158cc4bcb3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>4ba42ddf1b582810b5243158cc4bcb3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>change_plan</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>cba42ddf1b582810b5243158cc4bcb3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>close_code</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>4fa42ddf1b582810b5243158cc4bcb3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>close_notes</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>cfa42ddf1b582810b5243158cc4bcb3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>closed_at</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>43a42ddf1b582810b5243158cc4bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>closed_by</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>c3a42ddf1b582810b5243158cc4bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments_and_work_notes</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>47a42ddf1b582810b5243158cc4bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>company</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>c7a42ddf1b582810b5243158cc4bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cmdb_ci</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>4ba42ddf1b582810b5243158cc4bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>conflict_last_run</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>cba42ddf1b582810b5243158cc4bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>conflict_status</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>4fa42ddf1b582810b5243158cc4bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>contact_type</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>cfa42ddf1b582810b5243158cc4bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>contract</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>43a42ddf1b582810b5243158cc4bcb3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>correlation_id</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>c3a42ddf1b582810b5243158cc4bcb3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>correlation_display</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>47a42ddf1b582810b5243158cc4bcb3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>c7a42ddf1b582810b5243158cc4bcb3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="bf33e99f1b582810b5243158cc4bcbf2">8ba42ddf1b582810b5243158cc4bcb3b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>john.diego@snc</sys_created_by>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
+            <sys_id>4ba42ddf1b582810b5243158cc4bcb3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.diego@snc</sys_updated_by>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -42,10 +327,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>john.diego@snc</sys_created_by>
-            <sys_created_on>2020-11-10 23:10:39</sys_created_on>
+            <sys_created_on>2020-11-10 23:16:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ac53ad9f1b582810b5243158cc4bcbcc</sys_id>
+            <sys_id>8ba42ddf1b582810b5243158cc4bcb3b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>change_request</sys_name>
             <sys_package display_value="BabyD" source="x_snc_babyd">0b42619f1b582810b5243158cc4bcb9a</sys_package>
@@ -53,7 +338,7 @@
             <sys_scope display_value="BabyD">0b42619f1b582810b5243158cc4bcb9a</sys_scope>
             <sys_update_name>sys_ui_list_change_request_yota</sys_update_name>
             <sys_updated_by>john.diego@snc</sys_updated_by>
-            <sys_updated_on>2020-11-10 23:10:39</sys_updated_on>
+            <sys_updated_on>2020-11-10 23:16:34</sys_updated_on>
             <sys_user/>
             <view display_value="Yota" name="yota">bf33e99f1b582810b5243158cc4bcbf2</view>
             <view_name/>
